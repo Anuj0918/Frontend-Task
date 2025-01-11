@@ -25,3 +25,9 @@ npm start
 5.Open the application in your browser at:
 
 http://localhost:5173
+
+# Deployment Link
+ https://koinx-frontend-assignment.vercel.app/
+
+
+
